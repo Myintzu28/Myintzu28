@@ -1,12 +1,11 @@
-
-<h1 align="center">Hi 👋, I'm Myint Zu Khin</h1>
-<h3 align="center">A frontend/backend developer from Myanmar</h3>
+<h1 align="center">Hello 👋, I'm Myint Zu Khin</h1>
+<h3 align="center">Junior frontend/backend developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myintzu28&label=Profile%20views&color=0e75b6&style=flat" alt="myintzu28" /> </p>
 
 - 🔭 I’m currently working on **Myanmar Software Integrated Solutions**
 
-- 🌱 I’m currently learning **Java,Javascript,Vue,php**
+- 🌱 I’m currently learning **Java,Javascript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -25,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myintzu28&show_icons=true&locale=en&layout=compact" alt="myintzu28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myintzu28&show_icons=true&locale=en" alt="myintzu28" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myintzu28&" alt="myintzu28" /></p>
