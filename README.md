@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Myint Zu Khin</h1>
-<h3 align="center">Junior frontend/backend developer from Myanmar</h3>
+<h3 align="center">Junior  developer from Myanmar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myintzu28&label=Profile%20views&color=0e75b6&style=flat" alt="myintzu28" /> </p>
 
