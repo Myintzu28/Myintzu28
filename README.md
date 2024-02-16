@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Myanmar Software Integrated Solutions**
 
-- 🌱 I’m currently learning **Java,Javascript,Vue,React,NodeJs**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
